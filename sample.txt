@@ -2,3 +2,4 @@ test data
 test data2
 pull リモートの内容を取得
 commit インデックス追加
+test commit1
