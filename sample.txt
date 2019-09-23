@@ -4,3 +4,4 @@ pull リモートの内容を取得
 commit インデックス追加
 test2 pushしておく
 test commit1
+テストしてみる
